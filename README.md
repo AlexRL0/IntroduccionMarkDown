@@ -50,4 +50,4 @@ Este texto no es una cita.
 ![](/Imagenes/Sisiphus.jpg)
 
 
-[Enlace a el nuevo Markdown](/NuevoMarkdown)
+[Enlace a el nuevo Markdown](/NuevoMarkdown.md)
